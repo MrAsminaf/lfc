@@ -7,5 +7,5 @@ lfc.py is a short script that lets you quickly see the next date, time and oppon
 This program requires the 'Beautiful Soup' module. You can get it by simply:
 
 ```
-pip install bs4
+$ pip install bs4
 ```
